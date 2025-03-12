@@ -53,8 +53,4 @@ Palabras que contienen 'pal': 2
 palabra (Línea 1)
 palabras (Línea 2)
 
-Palabras que contienen la versión invertida de 'pal': 0
-```
-
-## Licencia  
-Proyecto desarrollado por [Brandon Garcia Rodriguez]. Distribuido bajo la licencia MIT.  
+Palabras que contienen la versión invertida de 'pal': 0 
